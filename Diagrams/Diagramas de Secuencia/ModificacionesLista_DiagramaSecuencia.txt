@@ -1,0 +1,11 @@
+title Modificaciones a Lista de Restaurantes
+
+Usuario->Sistema: 1 Iniciar la Aplicación
+Sistema->Usuario: 1.1 Mostrar la Ventana Principal
+Usuario->Sistema: 2 Seleccionar Criterio de Ordenamiento y luego "ORDENAR LISTA"
+Sistema->Usuario: 2.1 Orden Lista de Restaurantes según Criterio especificado
+Usuario->Sistema: 3 Ingresar Caracteres en el Buscador y luego "BUSCAR" [Lupa]
+Sistema->Usuario: 3.1 Actualiza Lista de Restaurantes según Restaurantes con los Caracteres ingresados
+
+
+

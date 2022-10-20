@@ -1,0 +1,10 @@
+title Registrar/Ingresar Usuario
+
+Usuario->Sistema: 1 Iniciar la Aplicación
+Sistema->Usuario: 1.1 Mostrar la Ventana Principal
+Usuario->Sistema: 2 Seleccionar Registrarse/Ingresar
+Sistema->Usuario: 2.1 Mostrar Ventana de Usuario
+Usuario->Sistema: 3 Ingresar Nombre de Usuario y Correo Electrónico
+Sistema->Usuario: 3.1 Procesar Datos y Registrar/Ingresar
+Sistema->Usuario: 3.2 Mostrar Confirmación de Ingreso
+Sistema->Usuario: 3.3 Mostrar la Ventana Principal

@@ -1,0 +1,1 @@
+Para visualizar los Diagramas de Secuencia realizados por el equipo, dirigirse a websequencediagrams.com y escribir (pegar) el código presente en los .txt adjuntos.

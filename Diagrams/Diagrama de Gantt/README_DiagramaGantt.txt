@@ -1,0 +1,1 @@
+NECESARIO: Poseer Software de Gantt Project. Descargarlo (si ya no se posee) de la página ganttproject.biz

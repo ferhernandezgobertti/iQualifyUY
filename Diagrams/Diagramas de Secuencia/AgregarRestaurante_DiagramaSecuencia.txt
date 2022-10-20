@@ -1,0 +1,9 @@
+title Agregar Restaurante
+
+Usuario->Sistema: 1 Iniciar la Aplicación
+Sistema->Usuario: 1.1 Mostrar la Ventana Principal
+Usuario->Sistema: 2 Seleccionar 'Agregar Restaurante'
+Sistema->Usuario: 2.1 Mostrar Ventana de Agregar Restaurante
+Usuario->Sistema: 3 Ingresar Datos del Nuevo Restaurante
+Sistema->Usuario: 3.1 Mostrar Ingreso Correcto y Procesar Ingreso
+Sistema->Usuario: 3.2 Mostrar la Ventana Principal

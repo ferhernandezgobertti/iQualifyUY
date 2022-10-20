@@ -1,0 +1,11 @@
+title Editar Información de un Restaurante
+
+Usuario->Sistema: 1 Iniciar la Aplicación
+Sistema->Usuario: 1.1 Mostrar la Ventana Principal
+Usuario->Sistema: 2 Seleccionar Restaurante
+Sistema->Usuario: 2.1 Mostrar Ventana de Restaurante
+Usuario->Sistema: 3 Seleccionar Editar Información
+Sistema->Usuario: 3.1 Habilitar Edición de Información
+Usuario->Sistema: 4 Editar Información y Guardar Cambios
+Sistema->Usuario: 4.1 Mostrar Confirmación de Actualización de Información
+Sistema->Usuario: 4.2 Mostrar la Ventana Principal

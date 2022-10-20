@@ -1,0 +1,12 @@
+title Realizar Sorteo
+
+Usuario->Sistema: 1 Iniciar la Aplicación
+Sistema->Usuario: 1.1 Mostrar la Ventana Principal
+Usuario->Sistema: 2 Seleccionar 'Sorteos'
+Sistema->Usuario: 2.1 Mostrar Ventana de Sorteos
+Usuario->Sistema: 3 Autentificarse como Administrador
+Sistema->Usuario: 3.1 Mostrar correcta autentificación
+Usuario->Sistema: 4 Inicializar Sorteo (Cantidad de Ganadores y Descripción)
+Sistema->Usuario: 4.1 Mostrar Ingreso Correcto y Enviar Correo a Ganadores
+Sistema->Usuario: 4.2 Notificar un Correcto Recibimiento de Correos
+Sistema->Usuario: 4.3 Mostrar la Ventana Principal

@@ -1,0 +1,1 @@
+Para visualizar los Diagramas UML realizados por el equipo, dirigirse a draw.io, seleccionar Save Diagrams to Device y luego seleccionar la opción “Abrir Diagrama Existente” (Open Existing Diagram). Allí, seleccionar los archivos subsiguientes para abrir los correspondientes Diagramas UML realizados.
