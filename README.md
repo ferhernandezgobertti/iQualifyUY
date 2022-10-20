@@ -26,4 +26,5 @@ Main Windows' Visualization:
 
 Class Diagram of Domain Classes:
 
-<img width="720" alt="Screen Shot 2022-10-20 at 6 25 50 PM" src="https://user-images.githubusercontent.com/38531693/197063051-c45bf458-c941-4de0-8182-35d4ae5285dd.png">
+<img width="720" alt="Screen Shot 2022-10-20 at 6 25 15 PM" src="https://user-images.githubusercontent.com/38531693/197063314-3d457462-03cb-49ae-920a-f869c638c599.png">
+
