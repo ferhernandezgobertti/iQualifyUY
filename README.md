@@ -1,5 +1,5 @@
 # iQualifyUY
-Platform for providing Restaurants' Feedbacks and Generating Draws
+Platform for providing Feedbacks to Restaurants and generating Fun Draws
 
 Authors: Fernando A. Hernandez Gobertti, Sebastian Effa Gallego
 
